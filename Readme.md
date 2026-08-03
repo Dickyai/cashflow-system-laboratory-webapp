@@ -11,13 +11,13 @@ Aplikasi ini mengintegrasikan pencatatan denda, pembayaran uang kas, pengeluaran
 
 ## DAFTAR ISI
 
-1. [Pendahuluan dan Grounding Masalah]
-2. [Live Portal dan Kredensial Pengujian]
-3. [Arsitektur Sistem dan Alur Data]
-4. [Formulasi Pemodelan Nilai dan Logika Bisnis]
-5. [Analisis Permasalahan Teknikal dan Solusi Terapan]
-6. [Batasan Arsitektur dan Peluang Revisi Lanjutan]
-7. [Lisensi dan Isolasi Kode]
+1. Pendahuluan dan Grounding Masalah
+2. Live Portal dan Kredensial Pengujian
+3. Arsitektur Sistem dan Alur Data
+4. Formulasi Pemodelan Nilai dan Logika Bisnis
+5. Analisis Permasalahan Teknikal dan Solusi Terapan
+6. Batasan Arsitektur dan Peluang Revisi Lanjutan
+7. Lisensi dan Isolasi Kode
 
 ---
 
@@ -156,7 +156,7 @@ Alur penggunaan sistem secara umum adalah sebagai berikut:
 Sistem menggunakan empat kelompok data utama:
 
 | Data | Fungsi |
-|---|---|
+|------|--------|
 | Data Asisten | Menyimpan daftar asisten dan status keaktifannya |
 | Data Denda | Menyimpan pelanggaran, nominal, status, dan waktu pembayaran |
 | Data Kas | Menyimpan tagihan kas bulanan dan status pelunasannya |
