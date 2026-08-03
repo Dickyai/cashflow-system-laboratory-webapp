@@ -1,0 +1,12 @@
+# 1. Blokir semua file dan folder tanpa terkecuali
+*
+
+# 2. Buka blokir HANYA untuk file .gitignore
+!.gitignore
+
+# 3. Buka blokir HANYA untuk file README (huruf besar/kecil)
+![Rr][Ee][Aa][Dd][Mm][Ee].[Mm][Dd]
+
+# 4. Buka blokir HANYA untuk folder assets dan seluruh isinya
+!assets
+!assets/**
