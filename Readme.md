@@ -11,13 +11,13 @@ Aplikasi ini mengintegrasikan pencatatan denda, pembayaran uang kas, pengeluaran
 
 ## DAFTAR ISI
 
-1. [Pendahuluan dan Grounding Masalah](#1-pendahuluan-dan-grounding-masalah)
-2. [Live Portal dan Kredensial Pengujian](#2-live-portal-dan-kredensial-pengujian)
-3. [Arsitektur Sistem dan Alur Data](#3-arsitektur-sistem-dan-alur-data)
-4. [Formulasi Pemodelan Nilai dan Logika Bisnis](#4-formulasi-pemodelan-nilai-dan-logika-bisnis)
-5. [Analisis Permasalahan Teknikal dan Solusi Terapan](#5-analisis-permasalahan-teknikal-dan-solusi-terapan)
-6. [Batasan Arsitektur dan Peluang Revisi Lanjutan](#6-batasan-arsitektur-dan-peluang-revisi-lanjutan)
-7. [Lisensi dan Isolasi Kode](#7-lisensi-dan-isolasi-kode)
+1. [Pendahuluan dan Grounding Masalah]
+2. [Live Portal dan Kredensial Pengujian]
+3. [Arsitektur Sistem dan Alur Data]
+4. [Formulasi Pemodelan Nilai dan Logika Bisnis]
+5. [Analisis Permasalahan Teknikal dan Solusi Terapan]
+6. [Batasan Arsitektur dan Peluang Revisi Lanjutan]
+7. [Lisensi dan Isolasi Kode]
 
 ---
 
@@ -51,13 +51,13 @@ Sistem ini tidak dimaksudkan sebagai aplikasi akuntansi formal. Aplikasi berfung
 
 Aplikasi dapat diakses melalui tautan berikut:
 
-[BUKA CASHFLOW SYSTEM LABORATORY](https://script.google.com/macros/s/AKfycbw7HnlfVyeeGyfuVxCObtueOLP8bMlA8cwNgcSLyD-b_vkaXbXG1jIRLDP2b7AAui8b/exec)
+(https://script.google.com/macros/s/AKfycbw7HnlfVyeeGyfuVxCObtueOLP8bMlA8cwNgcSLyD-b_vkaXbXG1jIRLDP2b7AAui8b/exec)
 
 Versi yang ditampilkan merupakan aplikasi demo yang telah dipisahkan dari aplikasi utama. Data dan kredensial di dalamnya disediakan untuk kebutuhan pengujian serta demonstrasi portofolio.
 
 ## Akun Demo Bendahara
 
-```text
+```
 Username: bendahara
 Password: asistensultan
 ```
@@ -99,7 +99,7 @@ Google Apps Script berfungsi sebagai backend sekaligus media deployment aplikasi
 
 ## Diagram Arsitektur
 
-```text
+```
 +----------------------------+
 |          PENGGUNA          |
 |                            |
@@ -199,7 +199,7 @@ Net cashflow menggambarkan selisih antara seluruh pemasukan yang telah tervalida
 
 Secara umum:
 
-```text
+```
 Net Cashflow = Total Pemasukan - Total Pengeluaran
 ```
 
@@ -402,7 +402,7 @@ Pemisahan tersebut bertujuan menjaga isolasi antara:
 
 Hak cipta aplikasi dan dokumentasi berada pada pengembang.
 
-```text
+```
 Copyright © 2026 Dicky Alfian Irvansyah.
 All rights reserved.
 ```
