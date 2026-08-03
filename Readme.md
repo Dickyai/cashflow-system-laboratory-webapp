@@ -56,9 +56,13 @@ Versi yang ditampilkan merupakan aplikasi demo yang telah dipisahkan dari aplika
 
 ## Akun Demo Bendahara
 
+Username: 
 ```
-Username: bendahara
-Password: asistensultan
+bendahara
+```
+Password: 
+```
+asistensultan
 ```
 
 ## Skema Akses
