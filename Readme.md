@@ -50,7 +50,7 @@ Sistem ini tidak dimaksudkan sebagai aplikasi akuntansi formal. Aplikasi berfung
 
 Aplikasi dapat diakses melalui tautan berikut:
 
-(https://script.google.com/macros/s/AKfycbw7HnlfVyeeGyfuVxCObtueOLP8bMlA8cwNgcSLyD-b_vkaXbXG1jIRLDP2b7AAui8b/exec)
+https://script.google.com/macros/s/AKfycbw7HnlfVyeeGyfuVxCObtueOLP8bMlA8cwNgcSLyD-b_vkaXbXG1jIRLDP2b7AAui8b/exec
 
 Versi yang ditampilkan merupakan aplikasi demo yang telah dipisahkan dari aplikasi utama. Data dan kredensial di dalamnya disediakan untuk kebutuhan pengujian serta demonstrasi portofolio.
 
