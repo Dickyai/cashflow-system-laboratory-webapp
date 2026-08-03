@@ -1,4 +1,3 @@
-````markdown
 # CASHFLOW SYSTEM LABORATORY
 
 ## Dashboard Terintegrasi untuk Pengelolaan Denda, Uang Kas, dan Arus Kas Laboratorium
@@ -430,4 +429,3 @@ Proyek ini menunjukkan penerapan beberapa kompetensi pengembangan perangkat luna
 - Penyusunan antarmuka responsif.
 
 Sistem masih memiliki ruang pengembangan, terutama pada aspek skalabilitas, audit trail, pengelolaan bukti transaksi, dan pemisahan hak akses yang lebih rinci.
-````
